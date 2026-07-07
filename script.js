@@ -84,7 +84,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
     
     // Initial AI message
-    addMessage("Hello! I'm Krishna's AI Assistant. You can ask me for his resume, contact details, or project information. How can I assist you?", 'ai');
+    addMessage("Hello! I'm princess Krishna's AI Assistant. You can ask me for her resume, contact details, or project information. How can I assist you?", 'ai');
 
     async function sendMessage() {
         const userMessage = chatInput.value.trim();
